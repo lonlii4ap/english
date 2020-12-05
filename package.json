@@ -1,0 +1,24 @@
+{
+  "name": "english",
+  "version": "1.0.0",
+  "description": "learning  english",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lonlii4ap/english.git"
+  },
+  "keywords": [],
+  "author": "lonlii4ap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lonlii4ap/english/issues"
+  },
+  "homepage": "https://github.com/lonlii4ap/english#readme",
+  "devDependencies": {
+    "vuepress": "^1.7.1"
+  }
+}
